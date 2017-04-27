@@ -18,15 +18,13 @@
  */
 // Type the code below this line
 
-
-
 /*:
  
  In the debug area (be sure to scroll up to the top of the output) you should have seen output similar to the following:
  
  ![variable-not-initialized](error.png)
  
- Now try typing the following:
+ Now revise your code above, and change it to the following:
  
  ![declare-with-value](declare-with-value.png)
  
@@ -35,8 +33,4 @@
  How does the result differ?
  
  */
-// Type the next section of code below this line
-
-
-
 //: [Next](@next)
